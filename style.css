@@ -1,0 +1,84 @@
+
+<!-- HW-Wireframe.html -->
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Style.css</title>
+  <head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+body {
+  
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color:#777
+  text-align: center;
+  background:#777;
+  width:960px
+  font-size: 18px;
+  margin:0px
+     
+}
+
+#wrapper {
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    widows: 90%;
+}
+
+header {
+  background:#ebebeb;
+  height: 48px;
+
+}
+
+nav{
+  background: #ebebeb;
+  height: 48px;
+}
+
+section {
+  background: #ebebebe;
+  height: 200px;
+  width: 495px;
+  float: left;
+}
+
+article {
+  background: #777;
+  width: 95%;
+  color: white;
+}
+
+h1 {
+  height: 48px;
+  background: #ebebeb;
+  color: #777;
+}
+
+p{
+  height: 48px;
+  color: #777;
+  background:#ebebeb;
+}
+
+aside {
+  height: 200px;
+  width: 45%;
+  float: left;
+  background: #ebebeb;
+}
+
+footer {
+  width: 100%;
+  height: 48px;
+  clear: both;
+  background:white;
+}
+
